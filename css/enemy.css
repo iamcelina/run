@@ -1,0 +1,14 @@
+#enemy {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: inline-flex;
+    overflow: hidden;
+}
+
+.enemy {
+    flex-grow: 0;
+    flex-shrink: 0;
+    display: flex;
+    align-self: flex-end;
+}

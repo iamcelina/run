@@ -1,0 +1,15 @@
+#gameContainer {
+    height: 70%;
+    display: flex;
+    align-items: center;
+}
+
+#game {
+    background: white;
+    flex-grow: 0;
+    flex-shrink: 0;
+    height: 500px;
+    width: 100%;
+    position: relative;
+}
+

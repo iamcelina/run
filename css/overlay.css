@@ -1,0 +1,15 @@
+#overlay {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    border-width: 3px;
+    border-style: solid;
+    top: 50;
+    right: 80;
+    background: white;
+}
+
+#overlayText, #overlayCounter {
+    font-size: 30px;
+    padding: 5 10 5 10;
+}
